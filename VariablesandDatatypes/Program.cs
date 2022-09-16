@@ -23,9 +23,9 @@ Console.Write("Are you working true or false");
     working = Convert.ToBoolean(Console.ReadLine());
 
 Console.WriteLine("your name is :" + fullName);
-Console.WriteLine("your age is :"+age);
+Console.WriteLine("your age is :" + age);
 Console.WriteLine("your salary is: "+salary);
-Console.WriteLine("your Gender is :{gender}");   
+Console.WriteLine("your Gender is :{gender}");  
 
 
 
